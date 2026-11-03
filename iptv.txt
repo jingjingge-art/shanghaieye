@@ -3,18 +3,18 @@
 https://epg.yang-1989.xyz/v/302.mp4
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.yang-1989.xyz/logo/温馨提示.png" group-title="•溫馨「提示」" genre="•溫馨「提示」" ,維護時間：2026-8-21 #佛系維護...
 https://epg.yang-1989.xyz/v/301.mp4
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://iptv.yang-1989.xyz/logo/CNN.webp" group-title="•測試「Relay」" genre="•測試「Relay」" ,CNN「AI字幕」
-https://migu.yang-1989.xyz/test/5hddvb.m3u8
-#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://iptv.yang-1989.xyz/logo/CNN.webp" group-title="•測試「Relay」" genre="•測試「Relay」" ,CNN International「AI字幕」
-https://migu.yang-1989.xyz/test/tzmq9a.m3u8
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="https://iptv.yang-1989.xyz/logo/BBC%20News.webp" group-title="•測試「Relay」" genre="•測試「Relay」" ,BBC World News「AI字幕」
-https://migu.yang-1989.xyz/test/rqtdzx.m3u8
-#EXTINF:-1 tvg-id="Fox News Channel" tvg-name="Fox News Channel" tvg-logo="https://iptv.yang-1989.xyz/logo/Fox%20News%20Channel.webp" group-title="•測試「Relay」" genre="•測試「Relay」" ,Fox News Channel「AI字幕」
-https://migu.yang-1989.xyz/test/9n4pgf.m3u8
-#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://iptv.yang-1989.xyz/logo/Sky%20News.webp" group-title="•測試「Relay」" genre="•測試「Relay」" ,Sky News「AI字幕」
-https://migu.yang-1989.xyz/test/u95nkw.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://iptv.yang-1989.xyz/logo/CNA.webp" group-title="•測試「Relay」" genre="•測試「Relay」" ,Channel News Asia「AI字幕」
-https://migu.yang-1989.xyz/test/8nq8za.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://iptv.yang-1989.xyz/logo/CNN.webp" group-title="•新聞「Relay」" genre="•新聞「Relay」" ,CNN「AI字幕」
+https://migu.yang-1989.xyz/news/5hddvb.m3u8
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://iptv.yang-1989.xyz/logo/CNN.webp" group-title="•新聞「Relay」" genre="•新聞「Relay」" ,CNN International「AI字幕」
+https://migu.yang-1989.xyz/news/tzmq9a.m3u8
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-logo="https://iptv.yang-1989.xyz/logo/BBC%20World%20News.webp" group-title="•新聞「Relay」" genre="•新聞「Relay」" ,BBC World News「AI字幕」
+https://migu.yang-1989.xyz/news/rqtdzx.m3u8
+#EXTINF:-1 tvg-id="Fox News Channel" tvg-name="Fox News Channel" tvg-logo="https://iptv.yang-1989.xyz/logo/Fox%20News%20Channel.webp" group-title="•新聞「Relay」" genre="•新聞「Relay」" ,Fox News Channel「AI字幕」
+https://migu.yang-1989.xyz/news/9n4pgf.m3u8
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://iptv.yang-1989.xyz/logo/Sky%20News.webp" group-title="•新聞「Relay」" genre="•新聞「Relay」" ,Sky News「AI字幕」
+https://migu.yang-1989.xyz/news/u95nkw.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://iptv.yang-1989.xyz/logo/CNA.webp" group-title="•新聞「Relay」" genre="•新聞「Relay」" ,Channel News Asia「AI字幕」
+https://migu.yang-1989.xyz/news/8nq8za.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV1.webp" group-title="•中國「Relay」" genre="•中國「Relay」" ,CCTV 1 综合「Relay」
 https://migu.yang-1989.xyz/ysp/4k9h5u.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV2.webp" group-title="•中國「Relay」" genre="•中國「Relay」" ,CCTV 2 财经「Relay」
